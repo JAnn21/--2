@@ -1,8 +1,3 @@
-# 2014301028
-# 민병현
-# wadiz 사이트에서 프로젝트 성취율,모인금액,남은기간 크롤링
-
-
 from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
